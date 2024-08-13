@@ -1,0 +1,48 @@
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+    color: #100f0f;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    padding-top: 10%;
+}
+
+.text-justify {
+    text-align: justify;
+    line-height: 1.6;
+    font-weight: 50%;
+}
+
+.mark {
+    background-color: #febe00;
+    padding: 2px 4px;
+    border-radius: 4px;
+
+}
+
+.mark:hover {
+    background-color: #ff9800;
+    color: white;
+    cursor: pointer;
+}
+
+.privacy-content {
+    margin-top: 30px;
+}
+
+.section-title {
+    font-size: 32px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.section-title {
+    font-size: 40px;
+    font-weight: bold;
+    color: #555555;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+
+}
